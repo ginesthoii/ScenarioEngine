@@ -1,0 +1,12 @@
+[project]
+name = "scenarioengine"
+version = "1.0.0"
+description = "A general timeline-based stochastic simulation engine."
+authors = [
+    { name="Olivia Griffin", email="oliviagriffindev@gmail.com" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.url]
+Repository = "https://github.com/ginesthoii/ScenarioEngine"
